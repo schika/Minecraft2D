@@ -31,7 +31,7 @@ public class Game extends BasicGame {
     }
 
     public static void main(String... args) throws SlickException {
-        AppGameContainer app = new AppGameContainer(new Game("Minecraft 2D"));
+        AppGameContainer app = new AppGameContainer(new Game("Minecraft 2D(by schika)"));
         app.start();
     }
 }
